@@ -96,6 +96,5 @@ project/
 ├── EDA_&_data_preprocessing.ipynb
 ├── feature_engineering.ipynb
 ├── model_and_train.ipynb
-├── energy_data_set.csv
 └── README.md
 
