@@ -17,9 +17,9 @@ This project involves preprocessing energy data, feature engineering, and traini
 
 ## Project Overview
 This assessment focuses on:
-- Exploratory Data Analysis (EDA) and Data Preprocessin
-- Feature Engineering**
-- Model Training and Evaluation**
+- Exploratory Data Analysis (EDA) and Data Preprocessing
+- Feature Engineering
+- Model Training and Evaluation
 
 Generated datasets:
 - `processed_energy_data.csv`
@@ -88,7 +88,7 @@ Generated datasets:
 ---
 
 ## File Structure
-
+```
 project/
 │
 ├── energy_data_set.csv
@@ -97,4 +97,7 @@ project/
 ├── feature_engineering.ipynb
 ├── model_and_train.ipynb
 └── README.md
+```
+
+Thank you for reading!
 
