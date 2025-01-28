@@ -88,7 +88,7 @@ Generated datasets:
 ---
 
 ## File Structure
-```
+
 project/
 │
 ├── energy_data_set.csv
@@ -96,13 +96,6 @@ project/
 ├── EDA_&_data_preprocessing.ipynb
 ├── feature_engineering.ipynb
 ├── model_and_train.ipynb
+├── energy_data_set.csv
 └── README.md
-```
 
----
-
-Thank you for reading! If you encounter any issues, feel free to reach out.
-
---- 
-
-This format is cleaner and more suitable for a **README.md**, ensuring it’s easier for users to follow while maintaining professionalism.
